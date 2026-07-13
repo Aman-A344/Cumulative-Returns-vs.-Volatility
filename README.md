@@ -28,6 +28,12 @@ Volatility represents market risk. By taking the standard deviation of daily ret
 
 ---
 
+## Output
+
+![Stock Analysis Dashboard](output.png)
+
+---
+
 ## Installation & Setup
 Make sure you have Python installed. You will need to install the following dependencies:
 
